@@ -4,7 +4,8 @@
 
 ## 成员
 + saucxs(https://github.com/saucxs)
-+ 
++ zhangry7777(https://github.com/zhangry7777)
++ phoenix-zmh(https://github.com/phoenix-zmh)
 
 ## 抛帽子活动
 ### 规则(2020.05.29)
