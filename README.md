@@ -21,12 +21,12 @@
 + host：saucxs
 + 文章：
   - saucxs：[【手把手学习flutter】flutter的资源管理](https://github.com/saucxs/full_stack_knowledge_list/blob/master/article/flutter/flutter_4_%20assets.md)
-
+  - zhangry7777：[对于sql常见的错误理解](https://zhuanlan.zhihu.com/p/148025379)
 ### 2020.06.01-2020.06.14（1期）
 + host：saucxs
 + 文章：
   - saucxs：[【手把手学习flutter】flutter的资源管理](https://github.com/saucxs/full_stack_knowledge_list/blob/master/article/flutter/flutter_4_%20assets.md)
-
+  - zhangry7777：[对于sql常见的错误理解](https://zhuanlan.zhihu.com/p/148025379)
 
 
 
@@ -43,3 +43,4 @@ songEagle开发知识体系构建，技术分享，项目实战，实验室，�
 >微信群：**【写代码】研发进阶群**
 一个成长交流的产研群，帮忙拉产研的同学们进群，聚聚人气😘😘。
 每一个开发同学都应该形成自己的[知识体系](https://github.com/saucxs/full_stack_knowledge_list)，做到提纲挈领🧐🧐🧐
+
