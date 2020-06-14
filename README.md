@@ -27,7 +27,7 @@
 + 文章：
   - saucxs：[【手把手学习flutter】flutter的资源管理](https://github.com/saucxs/full_stack_knowledge_list/blob/master/article/flutter/flutter_4_%20assets.md)
   - zhangry7777：[对于sql常见的错误理解](https://zhuanlan.zhihu.com/p/148025379)
-  - phoenix-zmh: [问答系统简语](./QA.md)
+  - phoenix-zmh: [问答系统简语](/QA.md)
 
 
 
